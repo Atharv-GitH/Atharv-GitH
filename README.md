@@ -33,7 +33,7 @@
 - **Generative AI:** LangChain, AI-powered apps  
 - **Web3:** Blockchain basics, Smart Contracts, DApps  
 - **Game Tech:** Unity, Unreal Engine, OpenGL  
-- **Systems:** Assembly, Unix/Linux  
+- **Systems:** Assembly, Spring Boot, Angular, Unix, Linux  
 
 ---
 
