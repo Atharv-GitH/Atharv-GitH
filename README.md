@@ -28,23 +28,23 @@
 - **Integration:** REST APIs, real-time (Socket.io)  
 - **Deployment:** Android & iOS builds  
 
-### 🔹 Additional Technologies (📖 Exploratory Knowledge)
+### 🔹 Additional Technologies (📖 Exploratory / Course Knowledge)
 - **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD  
 - **Generative AI:** LangChain, AI-powered apps  
 - **Web3:** Blockchain basics, Smart Contracts, DApps  
 - **Game Tech:** Unity, Unreal Engine, OpenGL  
-- **Systems:** Assembly, Spring Boot, Angular, Unix, Linux  
+- **Systems:** Assembly, Unix/Linux  
+- **Frameworks:** Angular, Spring Boot  
 
 ---
 
 ## ⚡ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,redis,flutter,swift,aws,gcp,azure,docker,kubernetes,git,github,html,css,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,redis,flutter,swift,aws,gcp,azure,docker,kubernetes,git,github,html,css,unity,unreal,spring,angular" />
 </p>
 
 ---
-
 
 ## 🌐 Connect with Me  
 
@@ -67,6 +67,7 @@
 
 ## ✨ Fun Fact  
 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
+
 ---
 
 <p align="center">
